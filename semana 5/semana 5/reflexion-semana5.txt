@@ -1,0 +1,1 @@
+Las APIs permiten que una comunidad organice, comparta y gestione información de forma estructurada y en tiempo real, en lugar de depender de mensajes desordenados (como chats o redes sociales)

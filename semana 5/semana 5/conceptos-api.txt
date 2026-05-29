@@ -1,0 +1,2 @@
+Una ruta API (por ejemplo: /api/usuarios, /api/reportes) es un camino o endpoint en el backend al que una aplicación puede hacer solicitudes para enviar o recibir datos
+es como una “puerta” por donde el sistema se comunica internamente o con otras aplicaciones.
